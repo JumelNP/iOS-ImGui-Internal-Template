@@ -28,11 +28,12 @@ Before you begin, ensure you have the following installed and configured:
 
 - **ONNO** (@0jumel) 
 
-> *If you have questions or need assistance, feel free to reach out via Discord or open an issue!*
+> *If you have questions or need assistance, feel free to reach out via Discord!*
 
 ##  License
 
 This project is provided as an educational boilerplate. It incorporates parts of Dear ImGui, which is licensed under the MIT License. Please provide appropriate credit if you use this boilerplate as a base for your own releases!
+
 
 
 
