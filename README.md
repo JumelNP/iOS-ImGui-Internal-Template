@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🛡️ ImGuiMetalTweak</h1>
+  <h1>iOS-ImGui-Internal-Template</h1>
   <p><strong>A Boilerplate for Injecting Modern Dear ImGui Menus into iOS Games via Metal API</strong></p>
   <p>Developed by <b>ONNO</b></p>
 </div>
@@ -33,3 +33,4 @@ Before you begin, ensure you have the following installed and configured:
 ## 📜 License
 
 This project is provided as an educational boilerplate. It incorporates parts of Dear ImGui, which is licensed under the MIT License. Please provide appropriate credit if you use this boilerplate as a base for your own releases!
+
