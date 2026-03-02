@@ -7,7 +7,7 @@
 ---
 
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 Before you begin, ensure you have the following installed and configured:
 
@@ -16,7 +16,7 @@ Before you begin, ensure you have the following installed and configured:
 3. **macOS / Linux / Windows (WSL)** environment correctly set up with Theos.
 
 
-## 💉 Injection & Usage
+##  Injection & Usage
 
 ### For Non-Jailbroken Devices (Sideloading)
 1. Obtain the decrypted `.ipa` file of your target game.
@@ -24,13 +24,14 @@ Before you begin, ensure you have the following installed and configured:
 3. Inject the compiled `.dylib` into the `.ipa` and install it onto your device.
 
 
-## 👨‍💻 Developer
+##  Developer
 
 - **ONNO** (@0jumel) - *Lead Developer*
 
 > *If you have questions or need assistance, feel free to reach out via Discord or open an issue!*
 
-## 📜 License
+##  License
 
 This project is provided as an educational boilerplate. It incorporates parts of Dear ImGui, which is licensed under the MIT License. Please provide appropriate credit if you use this boilerplate as a base for your own releases!
+
 
