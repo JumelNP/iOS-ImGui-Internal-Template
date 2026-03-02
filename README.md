@@ -14,6 +14,8 @@ Before you begin, ensure you have the following installed and configured:
 1. **[Theos](https://github.com/theos/theos)**: The cross-platform build system for iOS tweaks.
 2. **iOS SDK**: Ensure you have a valid SDK assigned to your `TARGET` variable in the `Makefile`.
 3. **macOS / Linux / Windows (WSL)** environment correctly set up with Theos.
+4. **build the `.deb` by running the command `make package`. Output will be in the `packages`
+<img width="866" height="444" alt="16" src="https://github.com/user-attachments/assets/d4d30d62-9727-4d9c-bf64-1f8ba5cb784b" />
 
 
 ##  Injection & Usage
@@ -21,7 +23,7 @@ Before you begin, ensure you have the following installed and configured:
 ### For Non-Jailbroken Devices (Sideloading)
 1. Obtain the decrypted `.ipa` file of your target game.
 2. Use a tool like **Sideloadly** or **Azule**.
-3. Inject the compiled `.dylib` into the `.ipa` and install it onto your device.
+3. Inject the compiled `.deb` into the `.ipa` and install it onto your device.
 
 
 ##  Developer
@@ -33,6 +35,7 @@ Before you begin, ensure you have the following installed and configured:
 ##  License
 
 This project is provided as an educational boilerplate. It incorporates parts of Dear ImGui, which is licensed under the MIT License. Please provide appropriate credit if you use this boilerplate as a base for your own releases!
+
 
 
 
