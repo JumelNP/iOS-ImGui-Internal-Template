@@ -1,0 +1,9 @@
+Package: com.theonno.imguimetaltweak
+Name: ImGuiMetalTweak
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A test project for modern ImGui Menu using Metal injections
+Maintainer: TheOnno (@0jumel on discord)
+Author: TheOnno (@0jumel on discord)
+Section: Tweaks
